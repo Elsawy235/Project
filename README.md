@@ -1,4 +1,4 @@
-# project AWS project using Terraform 
+# AWS project using Terraform 
 this project enabling you create:-
 1- Vpc with cider (192.168.0.0/16)
 2- two subnets
